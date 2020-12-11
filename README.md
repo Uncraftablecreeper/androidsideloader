@@ -1,5 +1,6 @@
 # androidsideloader
 
+![.NET Core](https://github.com/Uncraftablecreeper/androidsideloader/workflows/.NET%20Core/badge.svg)
 This app might get detected as malware, however both the sideloader and the sideloader launcher are open source
 
 https://www.virustotal.com/gui/file/977105693610cf360fc29339b918e224180ba393ba05a64b6255af3845cbf376/relations
