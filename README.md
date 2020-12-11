@@ -16,3 +16,4 @@ Special thanks:
  - Thanks to https://stackoverflow.com/users/57611/erike for the folder browser dialog code
  - Thanks to Serge Weinstock for developing SergeUtils, which is used to search the combo box
  - Thanks to Mike Gold https://www.c-sharpcorner.com/members/mike-gold2 for the scrollable message box
+ - Thanks to Un_Simp  https://github.com/Uncraftablecreeper for setting up automatic building
